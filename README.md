@@ -8,3 +8,12 @@ This photography portfolio website is built with HTML and CSS. It is designed to
 
 ##live site
 the project is deployed on github pages and can be accessed at:
+https://randyombiro8-pixel.github.io/photographywebsite/
+
+##setup Instructions 
+1.clone the repository
+2.open the project folder
+3.open 'index.html' in a web browser
+
+##Copyright and license
+copy
