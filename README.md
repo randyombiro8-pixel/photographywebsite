@@ -16,4 +16,4 @@ https://randyombiro8-pixel.github.io/photographywebsite/
 3.open 'index.html' in a web browser
 
 ##Copyright and license
-copy
+
