@@ -16,4 +16,5 @@ https://randyombiro8-pixel.github.io/photographywebsite/
 3.open 'index.html' in a web browser
 
 ##Copyright and license
-
+copyright &copy 2026 Randy ombiro.All rights reserved
+This project is for educational and portfolio purposes
