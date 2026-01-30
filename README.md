@@ -1,7 +1,8 @@
-## photographywebsite
-###Author
+# photographywebsite
+Author
 Randy ombiro
 github: [@randyombiro8-pixel](https://github.com/randyombiro8-pixel)
+
 
 ##DESCRIPTION
 This application is a photography
