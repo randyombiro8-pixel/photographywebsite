@@ -1,12 +1,12 @@
 ## photographywebsite
-Author
+###Author
 Randy ombiro
 github: [@randyombiro8-pixel](https://github.com/randyombiro8-pixel)
 
-DESCRIPTION
+##DESCRIPTION
 This application is a photography
 
-live site
+###live site
 the project is deployed on github pages and can be accessed at:
 https://randyombiro8-pixel.github.io/photographywebsite/
 
