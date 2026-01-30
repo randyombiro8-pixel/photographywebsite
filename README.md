@@ -1,6 +1,6 @@
 # photographywebsite
-Author
-Randy ombiro
+Author:Randy ombiro  
+
 github: [@randyombiro8-pixel](https://github.com/randyombiro8-pixel)
 
 
