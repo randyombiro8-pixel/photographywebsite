@@ -9,8 +9,9 @@ This application is a simple and responsive photography website built using html
 and css.It showcases a plethora of my favourite screenshots taken through my ventures  
 as an aspiring photographer.The images are alligned in a clean and visually appealing layout.  
 It is intended for learning, practice and portfolio purposes.  
+
 The intention was to test my skills in:  
--structure by HTML  
+- structure by HTML  
 - 
 
 ### live site
